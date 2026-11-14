@@ -4,6 +4,8 @@ A working prototype for RV College of Engineering's innovative teams. All 20 tea
 <https://rvce.edu.in/innovative_teams> are included. Each one has its own colours, divisions, role hierarchy and recruitment pipeline.
 Events are **sample data**; no real or fictional students are pre-loaded.
 
+**Live demo:** https://clubhub-flax.vercel.app
+
 ## Run it
 
 Requires Node.js 24 (uses the built-in `node:sqlite`, so there are no native modules to compile).
